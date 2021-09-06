@@ -1,0 +1,1 @@
+This repository contains small programs in GNU-prolog implemented throughout the academic semester.
